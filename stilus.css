@@ -1,0 +1,17 @@
+body{
+background-color:aqua;
+}
+
+#szoveg{
+    padding: 5%;
+    text-align: center;
+}
+
+.card{
+    border-radius: 5%;
+}
+
+#alsoszoveg{
+    text-align: center;
+    padding-top: 10%;
+}
